@@ -29,11 +29,6 @@
       "type": "string",
       "description": "Full model output text extracted from the JSON response."
     },
-    "output_excerpt": {
-      "type": "string",
-      "description": "Optional short excerpt (used in processed exports).",
-      "maxLength": 300
-    },
     "error_type": {
       "type": "string",
       "enum": [
