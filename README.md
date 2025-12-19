@@ -28,19 +28,9 @@ To address this gap, BKED:
 
 The dataset supports both qualitative and quantitative analysis of hallucination patterns across models, prompt framings, and topical categories. It is designed for model auditing, critical AI research, and methodological experimentation, rather than leaderboard-style performance evaluation.
 
-BKED enables:
+**Intended users** include computational social scientists, digital humanists, AI auditors, ethicists, and library or archival researchers. But of course, everyone is welcome to explore!
 
-- Systematic measurement of culturally specific error types
-
-- Comparative analysis of hallucination behaviors across commercial LLMs
-
-- Development and testing of mitigation strategies, including prompt design and retrieval-based methods
-
-- Research into how model architectures and training practices amplify or obscure marginalized knowledge
-
-**Intended users** include computational social scientists, digital humanists, AI auditors, ethicists, and library or archival researchers.
-
-**Primary research questions supported by BKED include:**
+**Potential research questions supported by BKED include:**
 
 - What types of distortions most frequently occur when models respond to questions about Black cultural and historical topics?
 
@@ -67,7 +57,7 @@ BKED catalogs model errors and should not be treated as a verified historical co
 
 - Records in model_hallucinations.csv represent verified model errors and should not be treated as factual sources.
 
-- Absence of an error in model_responses_raw.csv does not imply correctness; only identified and curated hallucinations are included.
+- Absence of an error in model_responses_raw.csv does not imply correctness; hallucinations are curated and identified in model_hallucinations.csv.
 
 - Model outputs reflect behavior at the time of collection and may not generalize to future model versions.
 
@@ -113,7 +103,7 @@ Relationship between files:
 
 ### Summary of Methodology
 
-BKED utilizes a curated set of 94 prompts across categories like black_art_artists and african_diaspora. Responses were captured from GPT-5, Gemini 2.5 Flash, and Claude Haiku 4.5.
+BKED utilizes a curated set of prompts across categories like black_art_artists and african_diaspora. Responses were captured from GPT-5, Gemini 2.5 Flash, and Claude Haiku 4.5.
 
 **Annotation Process:**
 
