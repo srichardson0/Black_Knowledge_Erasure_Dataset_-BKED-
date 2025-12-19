@@ -52,7 +52,14 @@
     },
     "category": {
       "type": "string",
-      "description": "Topical category for the prompt/record (free-text)."
+      "enum": [
+        "black_art_artists",
+        "black_feminisim",
+        "black_lgbtq_history",
+        "historical_institutions_organizations",
+        "black_texts_authors",
+        "african_diaspora"
+      ],
     }
   },
   "required": [
