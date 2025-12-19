@@ -1,7 +1,7 @@
 ### Methodology
 
 **Data sources and sampling**
-- Prompts: The study uses a curated set of 94 prompts listed in `data/prompt_master.csv`. Prompts were designed to elicit factual, historical, and cultural responses relevant to Black studies (categories include `black_art_artists`, `african_diaspora`, `black_texts_authors`, etc.).
+- Prompts: The study uses a curated set of prompts listed in `data/prompt_master.csv`. Prompts were designed to elicit factual, historical, and cultural responses relevant to Black studies with focus on 19th and 20th century histories (categories include `black_art_artists`, `african_diaspora`, `black_texts_authors`, etc.).
 - Models: Each prompt was submitted to multiple large language models (LLMs) — `gpt-5`, `gemini-2.5-flash`, and `claude-haiku-4-5` — to sample cross-model behavior.
 - Sampling window: Collection occurred between 2025-12-15 and 2025-12-18; responses are timestamped and saved in `model_outputs/<model>/`.
 
