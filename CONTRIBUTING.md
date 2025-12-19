@@ -30,6 +30,6 @@ Contributions are welcome but must adhere to the existing dataset structure and 
 **Quick Start**
 
 ```bash
-git clone https://github.com/srichardson0/Black_Knowledge_Erasure_Dataset_-BKED-.git
+git clone https://github.com/srichardson0/Black_Knowledge_Erasure_Dataset_BKED.git
 pip install -r requirements.txt
 ```
