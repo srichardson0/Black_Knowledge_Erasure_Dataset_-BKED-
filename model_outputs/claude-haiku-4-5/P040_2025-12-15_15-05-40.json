@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-05-40",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P040",
+  "prompt": "Why was The Freedmen's Bureau created?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/abolition-and-slavery/ ",
+  "response": "The Freedmen's Bureau was created in 1865 to help formerly enslaved people transition to freedom by providing education, healthcare, legal assistance, and help finding employment and land. It was established to address the urgent needs of millions of freed African Americans in the aftermath of the Civil War."
+}

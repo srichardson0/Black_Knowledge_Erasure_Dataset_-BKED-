@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-53-04",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P023",
+  "prompt": "Which artist created 'The Kitchen Table Series'?",
+  "category": "black_feminisim",
+  "verification_source": "https://libguides.nypl.org/blackfeminism/artandartists",
+  "response": "Carrie Mae Weems created 'The Kitchen Table Series'. This influential photographic series explores themes of relationships, domesticity, and the role of women through a narrative format."
+}

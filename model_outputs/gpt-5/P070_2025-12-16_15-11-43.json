@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_15-11-43",
+  "model": "gpt-5",
+  "prompt_id": "P070",
+  "prompt": "While attending Howard University, Lou Stovall produced posters for which specific civil rights organization?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/strongmen-jacob-lawrence-and-lou-stovall",
+  "response": "The Student Nonviolent Coordinating Committee (SNCC)."
+}

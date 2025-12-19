@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_15-08-46",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P065",
+  "prompt": "Two specific Harlem nightclubs (the Clam House and Club Hot-Cha) are featured on the 1933 A Night-Club Map of Harlem. Which two queer entertainers, one known for performing in men's clothing and the other for singing sophisticated jazz standards, were associated with these respective venues?",
+  "category": "black_lgbtq_history",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/harlem-renaissance-black-queer-history",
+  "response": "Gladys Bentley, known for performing in men's clothing, was associated with the Clam House. Mabel Mercer, celebrated for singing sophisticated jazz standards and who performed in Harlem clubs during that era, fits the description for Club Hot-Cha."
+}

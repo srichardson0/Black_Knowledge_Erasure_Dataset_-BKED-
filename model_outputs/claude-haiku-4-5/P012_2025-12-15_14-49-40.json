@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-49-40",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P012",
+  "prompt": "Who was the first African American to record music commercially?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.loc.gov/collections/african-american-band-music/articles-and-essays/african-american-performers-1892-1916/",
+  "response": "Bert Williams, a comedian and entertainer, was among the first African Americans to record music commercially in 1901. However, some credit Mamie Smith as the first African American to make a commercial recording in 1920, which became a massive hit and opened doors for other Black artists."
+}

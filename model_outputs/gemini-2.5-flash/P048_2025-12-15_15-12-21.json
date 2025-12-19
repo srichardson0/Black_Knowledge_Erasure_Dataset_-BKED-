@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-12-21",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P048",
+  "prompt": "Who founded the National Negro Council, a political lobbying group?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/edgar-g-brown-lobbyist-union-president-and-tennis-champion",
+  "response": "Mary McLeod Bethune founded the National Negro Council. This influential organization was established in 1935 to unite Black women's organizations and advocate for civil rights."
+}

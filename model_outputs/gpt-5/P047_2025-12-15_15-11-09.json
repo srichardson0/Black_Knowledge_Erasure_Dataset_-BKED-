@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-11-09",
+  "model": "gpt-5",
+  "prompt_id": "P047",
+  "prompt": "In 1977, why did the NAACP sued the department of Health, Education, and Welfare?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/higher-education-and-the-black-community-the-james-e-blackwell-papers",
+  "response": "Because the NAACP charged that HEW was failing to enforce Title VI of the Civil Rights Act by allowing federally funded schools\u2014especially public higher education systems\u2014to remain segregated, and sought to force the agency to cut off funds and require desegregation plans."
+}

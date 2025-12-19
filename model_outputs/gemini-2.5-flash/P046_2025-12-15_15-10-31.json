@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-10-31",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P046",
+  "prompt": "Where was Samuel Coles sent by the American Board of Congregational Christian Churches as an accredited missionary to help with a newly established mission?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/50-years-50-collections-samuel-b-coles-an-alabama-son-in-africa",
+  "response": "Samuel Coles was sent by the American Board of Congregational Christian Churches to **Liberia, West Africa**, to help establish and support a new mission there. He was one of the earliest African American missionaries sent by the Board."
+}

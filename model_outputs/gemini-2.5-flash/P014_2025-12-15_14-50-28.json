@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-50-28",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P014",
+  "prompt": "Who was  the composer of \"Ballin' the Jack\"?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.loc.gov/collections/african-american-band-music/articles-and-essays/african-american-performers-1892-1916/",
+  "response": "The music for \"Ballin' the Jack\" was composed by Chris Smith. The lyrics were written by James Reese Europe."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-06-46",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P042",
+  "prompt": "Which organization absorbed the Union military banks set up for African-American troops during the Civil War? What other organization was it sponsored by?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/politics-and-government/",
+  "response": "The Union military banks set up for African-American troops during the Civil War were absorbed by the Freedmen's Savings and Trust Company, commonly known as the Freedmen's Bank. This organization was closely associated with and often promoted by the Freedmen's Bureau."
+}

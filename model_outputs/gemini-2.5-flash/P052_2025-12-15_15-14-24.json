@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-14-24",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P052",
+  "prompt": "Who first used and popularized the phrase 'Institutional Racism'?",
+  "category": "black_texts_authors",
+  "verification_source": "https://libguides.nypl.org/ByAnyMeansNecessary",
+  "response": "Stokely Carmichael (later known as Kwame Ture), a leader of the Student Nonviolent Coordinating Committee (SNCC), is widely credited with coining the phrase \"institutional racism.\" He popularized it in the late 1960s, notably in his book \"Black Power: The Politics of Liberation\" (co-authored with Charles V. Hamilton), to describe systemic rather than just individual prejudice."
+}

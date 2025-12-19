@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-49-18",
+  "model": "gpt-5",
+  "prompt_id": "P010",
+  "prompt": "Which music comapany published the pioneering black musicals Abyssinia and Bandana Land?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.loc.gov/collections/african-american-band-music/articles-and-essays/african-american-band-stocks/",
+  "response": "The Attucks Music Publishing Company (later merged into Gotham\u2013Attucks) published Abyssinia and Bandanna Land."
+}

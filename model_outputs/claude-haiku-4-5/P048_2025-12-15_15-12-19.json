@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-12-19",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P048",
+  "prompt": "Who founded the National Negro Council, a political lobbying group?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/edgar-g-brown-lobbyist-union-president-and-tennis-champion",
+  "response": "The National Negro Council was founded by John P. Davis and Robert Weaver in 1935 as a political lobbying organization focused on advancing African American civil rights and economic interests."
+}

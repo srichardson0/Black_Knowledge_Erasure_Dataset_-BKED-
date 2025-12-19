@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-48-45",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P009",
+  "prompt": "Who were the two founding members of the WEUSI Artist Collective in Harlem, NY?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.weusiartistcollective.gallery/home ",
+  "response": "The two founding members of the WEUSI Artist Collective in Harlem were Ademola Olugebefola and Otto Neals, who established the group in 1967 as a Pan-African artist collective dedicated to promoting Black art and culture."
+}

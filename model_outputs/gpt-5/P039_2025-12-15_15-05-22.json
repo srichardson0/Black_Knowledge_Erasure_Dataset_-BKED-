@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-05-22",
+  "model": "gpt-5",
+  "prompt_id": "P039",
+  "prompt": "The Freedmen's Bureau is the commonly known name for which organization? ",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/abolition-and-slavery/ ",
+  "response": "The Freedmen's Bureau is the commonly known name for the U.S. Bureau of Refugees, Freedmen, and Abandoned Lands."
+}

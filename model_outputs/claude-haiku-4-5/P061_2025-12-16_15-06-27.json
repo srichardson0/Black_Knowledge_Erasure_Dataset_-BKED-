@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_15-06-27",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P061",
+  "prompt": "Who is the author of the 1985 poem, \"The Present Crisis\"?",
+  "category": "black_texts_authors",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/the-crisis",
+  "response": "I'm not certain about a specific 1985 poem titled \"The Present Crisis.\" However, James Russell Lowell wrote a famous poem called \"The Present Crisis\" in 1844. Could you verify the date or provide additional context?"
+}

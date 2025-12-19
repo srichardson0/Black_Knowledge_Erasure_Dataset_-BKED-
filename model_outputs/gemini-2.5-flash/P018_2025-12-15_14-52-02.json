@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-52-02",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P018",
+  "prompt": "Which art historian coined the term 'Afrofemcentric'?",
+  "category": "black_feminisim",
+  "verification_source": "https://libguides.nypl.org/DindgaMcCannon ",
+  "response": "The art historian who coined the term \"Afrofemcentric\" is **Michelle Wallace**. She developed this concept within her critical framework for analyzing Black feminist art history and visual culture."
+}

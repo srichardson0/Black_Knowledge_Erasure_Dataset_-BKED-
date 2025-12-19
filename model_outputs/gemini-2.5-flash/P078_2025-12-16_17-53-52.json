@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_17-53-52",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P078",
+  "prompt": "Sojourner Truth sold cartes-de-visite to fund her activism. What specific slogan was associated with these cards?",
+  "category": "black_feminisim",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/revolutionary-practice-black-feminisms",
+  "response": "Sojourner Truth's cartes-de-visite were famously inscribed with the slogan, \"I sell the shadow to support the substance.\" This phrase conveyed that she sold her photographic image (\"shadow\") to fund her activism and livelihood (\"substance\")."
+}

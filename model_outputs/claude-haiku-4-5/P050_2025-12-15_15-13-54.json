@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-13-54",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P050",
+  "prompt": "Who is the author of  'Authentic Anecdotes of American Slavery.' (Newburyport, Mass., 1838)?",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/women-authors/",
+  "response": "\"Authentic Anecdotes of American Slavery\" (1838) was authored by **James Thome and J. Horace Kimball**. The work was an abolitionist publication that compiled firsthand accounts and narratives documenting the realities of slavery in America."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-52-43",
+  "model": "gpt-5",
+  "prompt_id": "P021",
+  "prompt": "Who is known for this quote?: \"I am a Black Feminist. I mean I recognize that my power as well as my primary oppressions come as a result of my blackness as well as my womaness, and therefore my struggles on both of these fronts are inseparable.\"",
+  "category": "black_feminisim",
+  "verification_source": "https://libguides.nypl.org/blackfeminism",
+  "response": "Barbara Smith, the Black feminist writer-activist and cofounder of the Combahee River Collective."
+}

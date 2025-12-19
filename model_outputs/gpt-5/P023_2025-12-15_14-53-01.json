@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-53-01",
+  "model": "gpt-5",
+  "prompt_id": "P023",
+  "prompt": "Which artist created 'The Kitchen Table Series'?",
+  "category": "black_feminisim",
+  "verification_source": "https://libguides.nypl.org/blackfeminism/artandartists",
+  "response": "Carrie Mae Weems created The Kitchen Table Series (1990)."
+}

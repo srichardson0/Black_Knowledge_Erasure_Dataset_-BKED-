@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-50-17",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P013",
+  "prompt": "Which musical group released \"Mama's Black Baby Boy\" in the late 1890s?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.loc.gov/collections/african-american-band-music/articles-and-essays/african-american-performers-1892-1916/",
+  "response": "I don't have reliable information about a musical group that released \"Mama's Black Baby Boy\" in the late 1890s. This may be an obscure recording from that era, and I'd recommend checking historical music databases or archives for accurate details."
+}

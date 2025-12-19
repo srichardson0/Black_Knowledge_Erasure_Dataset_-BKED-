@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-18_23-07-22",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P090",
+  "prompt": "The National Urban League\u2019s early philosophy of \"racial uplift\" was developed to counter which 20th-century belief system that depicted racial disparities as part of the \"natural order\"?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/whitney-m-young-jr",
+  "response": "The National Urban League's philosophy of \"racial uplift\" was developed to counter **scientific racism** (also called racial determinism or social Darwinism), which used pseudoscientific theories to justify racial hierarchies and claim that racial disparities were inherent and unchangeable rather than the result of systemic discrimination and unequal opportunity."
+}

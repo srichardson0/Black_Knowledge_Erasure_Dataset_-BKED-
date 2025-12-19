@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-50-26",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P014",
+  "prompt": "Who was  the composer of \"Ballin' the Jack\"?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.loc.gov/collections/african-american-band-music/articles-and-essays/african-american-performers-1892-1916/",
+  "response": "\"Ballin' the Jack\" was composed by Jim Europe and James Reese Europe in 1913, though some sources credit it to Chris Smith and Jim Europe."
+}

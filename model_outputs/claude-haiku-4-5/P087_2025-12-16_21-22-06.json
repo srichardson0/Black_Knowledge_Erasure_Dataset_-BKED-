@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_21-22-06",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P087",
+  "prompt": "What specific honor, awarded by the NAACP, did Mary McLeod Bethune receive in 1935?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/six-black-women-who-shaped-education-america",
+  "response": "Mary McLeod Bethune received the NAACP's Spingarn Medal in 1935, which is the organization's highest honor awarded annually to an African American for outstanding achievement or merit."
+}

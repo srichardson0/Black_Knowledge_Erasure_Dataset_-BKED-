@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-05-23",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P039",
+  "prompt": "The Freedmen's Bureau is the commonly known name for which organization? ",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/abolition-and-slavery/ ",
+  "response": "The Freedmen's Bureau is the commonly known name for the Bureau of Refugees, Freedmen, and Abandoned Lands, a federal agency established in 1865 to assist formerly enslaved people and poor white refugees after the Civil War. The agency provided education, healthcare, legal aid, and helped freedmen find employment and acquire land during Reconstruction."
+}

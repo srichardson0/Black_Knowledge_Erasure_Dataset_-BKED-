@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-50-41",
+  "model": "gpt-5",
+  "prompt_id": "P015",
+  "prompt": "From which essay by Amiri Baraka is the following quote from?: \"We want actual explosions and actual brutality\"",
+  "category": "black_art_artists",
+  "verification_source": "https://www.jstor.org/stable/10.3998/mpub.12830358.7?searchText=african+american+diaspora&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dafrican%2Bamerican%2Bdiaspora%26so%3Drel%26efqs%3DeyJkaXNjIjpbIllXWnlhV05oYm1GdFpYSnBZMkZ1YzNSMVpHbGxjeTFrYVhOamFYQnNhVzVsIl19%26acc%3Don&ab_segments=0%2Fspellcheck_basic_search%2Ftest&refreqid=fastly-default%3Abec237d123703f11d9f760c3ca529431&seq=1",
+  "response": "\u201cThe Revolutionary Theatre\u201d (1965)."
+}

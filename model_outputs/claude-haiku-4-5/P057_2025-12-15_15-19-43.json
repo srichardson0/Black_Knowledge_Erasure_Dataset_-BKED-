@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-19-43",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P057",
+  "prompt": "Who wrote the memoir 'Preacher with a Plow' (1957)?",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/50-years-50-collections-samuel-b-coles-an-alabama-son-in-africa",
+  "response": "I don't have reliable information about a memoir titled \"Preacher with a Plow\" from 1957 in my training data. I'd recommend checking library catalogs or book databases like WorldCat or Google Books for accurate attribution."
+}

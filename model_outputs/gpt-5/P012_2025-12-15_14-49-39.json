@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-49-39",
+  "model": "gpt-5",
+  "prompt_id": "P012",
+  "prompt": "Who was the first African American to record music commercially?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.loc.gov/collections/african-american-band-music/articles-and-essays/african-american-performers-1892-1916/",
+  "response": "George W. Johnson. He is widely recognized as the first African American to make commercial sound recordings in the early 1890s."
+}

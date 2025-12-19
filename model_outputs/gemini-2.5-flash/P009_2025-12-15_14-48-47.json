@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-48-47",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P009",
+  "prompt": "Who were the two founding members of the WEUSI Artist Collective in Harlem, NY?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.weusiartistcollective.gallery/home ",
+  "response": "The two founding members of the WEUSI Artist Collective in Harlem, NY, were **Ernest Crichlow** and **James D. Parks**."
+}

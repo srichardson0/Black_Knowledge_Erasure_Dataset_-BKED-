@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_15-11-02",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P067",
+  "prompt": "Which specific academic degree did Pauli Murray earn from Yale University, making her the first African American to do so?",
+  "category": "black_feminisim",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/pioneering-pauli-murray-lawyer-activist-scholar-and-priest",
+  "response": "Pauli Murray earned a Doctor of Juridical Science (J.S.D.) from Yale University, making her the first African American to receive this specific academic degree from the institution in 1965."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-52-48",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P021",
+  "prompt": "Who is known for this quote?: \"I am a Black Feminist. I mean I recognize that my power as well as my primary oppressions come as a result of my blackness as well as my womaness, and therefore my struggles on both of these fronts are inseparable.\"",
+  "category": "black_feminisim",
+  "verification_source": "https://libguides.nypl.org/blackfeminism",
+  "response": "Audre Lorde is known for this quote. It encapsulates her foundational belief in the inseparable nature of her struggles against racism and sexism as a Black woman."
+}

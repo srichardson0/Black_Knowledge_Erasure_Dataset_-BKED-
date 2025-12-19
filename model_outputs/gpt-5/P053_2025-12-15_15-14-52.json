@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-14-52",
+  "model": "gpt-5",
+  "prompt_id": "P053",
+  "prompt": "Which writer and activist wrote this quote in the early 20th century?: \"Disfranchisement of the negro means, without doubt, degradation of its black labor, and this in turn the certain degradation of its white labor, and this in turn inevitable industrial feebleness and inferiority, and this in turn, ultimate sectional retrogression, poverty, and a low order of civilization.\"",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/suffrage/",
+  "response": "W. E. B. Du Bois."
+}

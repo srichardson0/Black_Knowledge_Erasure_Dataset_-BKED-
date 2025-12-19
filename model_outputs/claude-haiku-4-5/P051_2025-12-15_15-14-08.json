@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-14-08",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P051",
+  "prompt": "Who is the author of  'Appeal to the Christian Women of the South.'  (New York, 1836)?",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/women-authors/",
+  "response": "\"Appeal to the Christian Women of the South\" (1836) was written by Angelina Grimk\u00e9, a prominent abolitionist and women's rights activist from South Carolina. In this influential work, she urged Southern Christian women to oppose slavery on moral and religious grounds."
+}

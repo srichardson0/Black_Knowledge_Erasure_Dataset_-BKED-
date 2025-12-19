@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-45-52",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P002",
+  "prompt": "In the story, \"Everyday Use\" (1994), what metaphor does Alice Walker use for the legacy that African Americans inherited from their maternal ancestors?",
+  "category": "african_diaspora",
+  "verification_source": "https://libguides.nypl.org/quilts_african_diaspora/articles",
+  "response": "In \"Everyday Use,\" Alice Walker uses quilts as a metaphor for the African American cultural legacy inherited from maternal ancestors, representing both the practical wisdom and artistic creativity of previous generations. The quilts symbolize a living, evolving heritage meant to be used and valued in everyday life rather than preserved untouched like museum artifacts."
+}

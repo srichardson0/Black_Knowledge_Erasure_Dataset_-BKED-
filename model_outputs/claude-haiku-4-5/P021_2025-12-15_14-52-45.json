@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-52-45",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P021",
+  "prompt": "Who is known for this quote?: \"I am a Black Feminist. I mean I recognize that my power as well as my primary oppressions come as a result of my blackness as well as my womaness, and therefore my struggles on both of these fronts are inseparable.\"",
+  "category": "black_feminisim",
+  "verification_source": "https://libguides.nypl.org/blackfeminism",
+  "response": "This quote is from **Audre Lorde**, the influential Black feminist poet, essayist, and activist who was a pioneering voice in intersectional feminism during the 1970s and beyond. The quote reflects her foundational work in articulating how racism and sexism are interconnected forces that shape Black women's experiences."
+}

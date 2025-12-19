@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-08-47",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P045",
+  "prompt": "In which year did Mary Allen College open its doors to Crockett\u2019s Black male student population?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/50-years-50-collections-the-mary-allen-college-records-1929-1977",
+  "response": "Mary Allen College opened its doors in Crockett, Texas, in 1886, welcoming its Black male student population from its inception as a coeducational institution."
+}

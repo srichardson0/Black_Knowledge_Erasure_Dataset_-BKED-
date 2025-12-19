@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-16-32",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P055",
+  "prompt": "Who is the author of 'The Decorative Arts of Africa', which was published in 1973?",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/50-years-50-collections-louise-jefferson-illustrator-and-photographer",
+  "response": "Louise E. Jefferson is the author of 'The Decorative Arts of Africa', which was published in 1973."
+}

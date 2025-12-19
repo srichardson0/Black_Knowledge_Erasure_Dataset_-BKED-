@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-08-44",
+  "model": "gpt-5",
+  "prompt_id": "P045",
+  "prompt": "In which year did Mary Allen College open its doors to Crockett\u2019s Black male student population?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/50-years-50-collections-the-mary-allen-college-records-1929-1977",
+  "response": "1933, when Mary Allen College became coeducational and began admitting Black male students."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-13-58",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P050",
+  "prompt": "Who is the author of  'Authentic Anecdotes of American Slavery.' (Newburyport, Mass., 1838)?",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/women-authors/",
+  "response": "Abby Hopper Gibbons is widely credited as the author of 'Authentic Anecdotes of American Slavery,' published in Newburyport, Mass., in 1838. This work was a significant early anti-slavery publication."
+}

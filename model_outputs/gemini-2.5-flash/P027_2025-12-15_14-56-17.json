@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-56-17",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P027",
+  "prompt": "What was the largest black, gay-run, educational, social and political organization on the East Coast in the United States? For what time period was it active?",
+  "category": "black_lgbtq_history",
+  "verification_source": "https://archives.nypl.org/scm/21213#overview",
+  "response": "The largest black, gay-run, educational, social, and political organization on the East Coast in the United States was the Gay Men of African Descent (GMAD). It was founded in 1986 and remains active to this day."
+}

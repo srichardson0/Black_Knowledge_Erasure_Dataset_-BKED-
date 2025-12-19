@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-14-21",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P052",
+  "prompt": "Who first used and popularized the phrase 'Institutional Racism'?",
+  "category": "black_texts_authors",
+  "verification_source": "https://libguides.nypl.org/ByAnyMeansNecessary",
+  "response": "The phrase \"institutional racism\" was first coined and popularized by Stokely Carmichael and Charles V. Hamilton in their 1967 book \"Black Power: The Politics of Liberation,\" though the concept built on earlier work by scholars examining systemic racial discrimination. The term gained widespread use in civil rights discourse to describe how racism becomes embedded in the structures and practices of institutions rather than just individual prejudice."
+}

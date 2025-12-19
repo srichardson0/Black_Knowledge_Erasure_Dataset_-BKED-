@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-47-10",
+  "model": "gpt-5",
+  "prompt_id": "P005",
+  "prompt": "How many people were on the the voyage that brought African American exodusters to the Gold Coast in West Africa as a part of the Chief Sam Movement?",
+  "category": "african_diaspora",
+  "verification_source": "https://www.jstor.org/stable/10.2979/transition.114.108?searchText=african+american+diaspora&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dafrican%2Bamerican%2Bdiaspora%26so%3Drel%26efqs%3DeyJkaXNjIjpbIllXWnlhV05oYm1GdFpYSnBZMkZ1YzNSMVpHbGxjeTFrYVhOamFYQnNhVzVsIl19%26acc%3Don&ab_segments=0%2Fspellcheck_basic_search%2Ftest&refreqid=fastly-default%3Ae08d377818900b0f64202a79073f171c&seq=2",
+  "response": "Most accounts say about 60 people made the voyage aboard the S.S. Liberia with Chief Alfred Sam to the Gold Coast. Some sources list slightly different figures (around 60\u201372)."
+}

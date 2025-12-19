@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_15-06-46",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P062",
+  "prompt": "What was the 1985 poem, \"The Present Crisis\" an anthem for?",
+  "category": "black_texts_authors",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/the-crisis",
+  "response": "I don't have reliable information about a 1985 poem called \"The Present Crisis\" in my training data. Could you provide additional context, such as the author's name, to help me give you an accurate answer?"
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_15-06-49",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P062",
+  "prompt": "What was the 1985 poem, \"The Present Crisis\" an anthem for?",
+  "category": "black_texts_authors",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/the-crisis",
+  "response": "The poem \"The Present Crisis\" by James Russell Lowell was actually published in 1844, not 1985. It served as an anthem for the abolitionist movement, advocating for human rights and condemning slavery in the United States."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-19-46",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P057",
+  "prompt": "Who wrote the memoir 'Preacher with a Plow' (1957)?",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/50-years-50-collections-samuel-b-coles-an-alabama-son-in-africa",
+  "response": "J.B. Gamble wrote the memoir *Preacher with a Plow* (1957). The book chronicles his life as a rural pastor and farmer, offering insights into early 20th-century Southern life and faith."
+}

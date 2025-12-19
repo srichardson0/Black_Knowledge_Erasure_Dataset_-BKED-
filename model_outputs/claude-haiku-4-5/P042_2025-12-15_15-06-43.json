@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-06-43",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P042",
+  "prompt": "Which organization absorbed the Union military banks set up for African-American troops during the Civil War? What other organization was it sponsored by?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/politics-and-government/",
+  "response": "The Freedmen's Bureau absorbed the Union military banks that had been established for African-American troops during the Civil War. It was sponsored by the federal government as part of the broader Reconstruction effort to assist formerly enslaved people."
+}

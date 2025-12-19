@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_17-54-03",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P079",
+  "prompt": "Cheyney University, established in Pennsylvania in 1837 and noted as the first HBCU, was established by which specific religious group?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/consecrated-ground-churches-and-founding-americas-historically-black-colleges-and",
+  "response": "Cheyney University, the first HBCU, was established by the **Quakers**, members of the Religious Society of Friends. Their abolitionist convictions led them to found the institution as the Institute for Colored Youth in Pennsylvania."
+}

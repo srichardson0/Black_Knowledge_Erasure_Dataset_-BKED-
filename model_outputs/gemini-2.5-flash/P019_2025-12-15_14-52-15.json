@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-52-15",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P019",
+  "prompt": "What does the term 'Afrofemcentric' mean?",
+  "category": "black_feminisim",
+  "verification_source": "https://libguides.nypl.org/DindgaMcCannon ",
+  "response": "Afrofemcentric describes a framework or perspective that centers the experiences, voices, and issues of Black women. It prioritizes their unique intersectional identity, aiming to address specific forms of oppression and celebrate the strengths and agency unique to Black womanhood."
+}

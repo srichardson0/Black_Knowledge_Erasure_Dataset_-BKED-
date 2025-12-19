@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-03-10",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P036",
+  "prompt": "What was the name of the newsletter created to address the needs and issues of the local gay community in Jamaica and subscribers from around the world?",
+  "category": "black_lgbtq_history",
+  "verification_source": "https://archives.nypl.org/scm/25674",
+  "response": "I don't have reliable information about a specific newsletter by that name in my training data. To get an accurate answer about this Jamaican LGBTQ+ newsletter, I'd recommend searching for it directly or consulting sources focused on Caribbean LGBTQ+ history and publications."
+}

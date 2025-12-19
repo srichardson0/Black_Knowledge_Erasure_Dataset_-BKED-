@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-55-04",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P025",
+  "prompt": "Who was the  first female Black president of Mary Allen College?",
+  "category": "black_feminisim",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/50-years-50-collections-the-mary-allen-college-records-1929-1977",
+  "response": "Dr. Jo Ann Holmes was the first female Black president of Mary Allen College, serving from 2003 to 2007. She played a significant role in the institution's history and development."
+}

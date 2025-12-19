@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_15-06-31",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P061",
+  "prompt": "Who is the author of the 1985 poem, \"The Present Crisis\"?",
+  "category": "black_texts_authors",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/the-crisis",
+  "response": "The most well-known poem titled \"The Present Crisis\" was written by **James Russell Lowell** and published in 1844. There isn't a prominent or widely recognized poem with that exact title from 1985; it's likely you are referring to Lowell's influential 19th-century work."
+}

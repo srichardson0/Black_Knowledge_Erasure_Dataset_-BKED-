@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-21-53",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P060",
+  "prompt": "Who wrote the study about the collective efforts to assist Black Americans to enter the professional workforce, 'Mainstreaming Outsiders: The Production of Black Professionals' ?",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/higher-education-and-the-black-community-the-james-e-blackwell-papers",
+  "response": "\"Mainstreaming Outsiders: The Production of Black Professionals\" was written by Bart Landry, a sociologist who examined the historical efforts and institutional mechanisms that facilitated Black Americans' entry into professional occupations."
+}

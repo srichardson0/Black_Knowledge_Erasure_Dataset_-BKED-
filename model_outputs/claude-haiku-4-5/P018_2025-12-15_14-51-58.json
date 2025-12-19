@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-51-58",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P018",
+  "prompt": "Which art historian coined the term 'Afrofemcentric'?",
+  "category": "black_feminisim",
+  "verification_source": "https://libguides.nypl.org/DindgaMcCannon ",
+  "response": "Art historian Lowery Stokes Sims coined the term \"Afrofemcentric\" to describe artwork that centers Black female perspectives and experiences. She used this term to analyze and critique art through the lens of African American women's identities and contributions."
+}

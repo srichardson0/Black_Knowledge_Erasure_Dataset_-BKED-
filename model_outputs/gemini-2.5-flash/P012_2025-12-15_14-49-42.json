@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-49-42",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P012",
+  "prompt": "Who was the first African American to record music commercially?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.loc.gov/collections/african-american-band-music/articles-and-essays/african-american-performers-1892-1916/",
+  "response": "George W. Johnson was the first African American to record music commercially. He began his recording career in 1890, primarily singing popular minstrel show tunes and comedic songs."
+}

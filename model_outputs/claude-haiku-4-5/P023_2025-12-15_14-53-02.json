@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-53-02",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P023",
+  "prompt": "Which artist created 'The Kitchen Table Series'?",
+  "category": "black_feminisim",
+  "verification_source": "https://libguides.nypl.org/blackfeminism/artandartists",
+  "response": "Judy Chicago created \"The Dinner Party,\" not \"The Kitchen Table Series.\" Tracey Emin created \"The Kitchen Table Series,\" a photographic work from 1990-1993 that documented intimate moments at her kitchen table."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-05-39",
+  "model": "gpt-5",
+  "prompt_id": "P040",
+  "prompt": "Why was The Freedmen's Bureau created?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/abolition-and-slavery/ ",
+  "response": "It was created by Congress in 1865 to help formerly enslaved people and war refugees in the post\u2013Civil War South transition to freedom by providing relief, education, legal and labor support, and overseeing abandoned lands."
+}

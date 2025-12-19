@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-51-36",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P017",
+  "prompt": "Which ragtime artist has a song titled, \u201cAll Coons Look Alike to Me\u201d?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/50-years-50-collections-black-stereotypes-in-janette-faulkners-ethnic-notions-sheet-music-collection",
+  "response": "The ragtime artist with a song titled, \u201cAll Coons Look Alike to Me\u201d is Ernest Hogan. Hogan, a Black entertainer and composer, wrote the controversial but very popular song in 1901."
+}

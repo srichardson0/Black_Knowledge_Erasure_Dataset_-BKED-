@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-48-05",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P008",
+  "prompt": "When was the painting 'A Day in the life of a Black Woman Artist', by Dinga McCannon published?",
+  "category": "black_art_artists",
+  "verification_source": "https://libguides.nypl.org/c.php?g=1182548&p=8648419 ",
+  "response": "I don't have reliable information about a painting with that exact title by Dinga McCannon or its publication date. If you could provide additional context or verify the artwork's title, I'd be happy to help you find more accurate information."
+}

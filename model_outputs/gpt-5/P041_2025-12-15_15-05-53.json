@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-05-53",
+  "model": "gpt-5",
+  "prompt_id": "P041",
+  "prompt": "Which organization was formed in 1817 to send free African-Americans to Africa as an alternative to emancipation in the United States?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.loc.gov/exhibits/african/afam002.html",
+  "response": "The American Colonization Society (ACS), which promoted resettling free African Americans to Africa\u2014ultimately leading to the founding of Liberia."
+}

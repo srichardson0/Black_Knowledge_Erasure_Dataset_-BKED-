@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_15-11-57",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P071",
+  "prompt": "Which specific organization focused on women's rights did Pauli Murray co-found alongside Betty Friedan?",
+  "category": "black_feminisim",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/pauli-murray-lgbtq-historical-figure",
+  "response": "Pauli Murray co-founded the **National Organization for Women (NOW)** alongside Betty Friedan and other feminists in 1966. This organization was established to advocate for gender equality and women's rights in all areas of society."
+}

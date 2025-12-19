@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-07-42",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P043",
+  "prompt": "Which active agent in the American Anti-Slavery Society founded the Colver Institute in 1867, and why?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/religion-and-the-church/",
+  "response": "George Harvey Ball, an active agent for the American Anti-Slavery Society, founded the Colver Institute in 1867. He established it to provide a coeducational, Christian-based higher education, notably emphasizing opportunities for women, which reflected his progressive ideals and commitment to equality."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-45-31",
+  "model": "gpt-5",
+  "prompt_id": "P001",
+  "prompt": "According to Francis Kornegay's \"The AU and Africa's Three Diasporas\", what are the three categories that the African Diaspora can be divided into?",
+  "category": "african_diaspora",
+  "verification_source": "https://www.jstor.org/stable/resrep05178.6?searchText=african+american&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dafrican%2Bamerican%26so%3Drel%26efqs%3DeyJjdHkiOlsiY21WelpXRnlZMmhmY21Wd2IzSjAiXX0%253D&ab_segments=0%2Fspellcheck_basic_search%2Ftest&refreqid=fastly-default%3Aebf9dead3d3290252cb04a3cfa4444c4&seq=2",
+  "response": "Kornegay divides it into: the historic trans-Atlantic diaspora in the Americas; the contemporary migrant diaspora of postcolonial Africans (largely in Europe and North America); and the Afro\u2011Arab/Indian Ocean diaspora rooted in the trans\u2011Saharan and Indian Ocean slave trades across North Africa and the Middle East."
+}

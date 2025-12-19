@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-50-25",
+  "model": "gpt-5",
+  "prompt_id": "P014",
+  "prompt": "Who was  the composer of \"Ballin' the Jack\"?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.loc.gov/collections/african-american-band-music/articles-and-essays/african-american-performers-1892-1916/",
+  "response": "Chris Smith composed the music for \"Ballin' the Jack\" (1913), with lyrics by Jim Burris."
+}

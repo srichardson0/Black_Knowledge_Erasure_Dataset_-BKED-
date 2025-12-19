@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-48-04",
+  "model": "gpt-5",
+  "prompt_id": "P008",
+  "prompt": "When was the painting 'A Day in the life of a Black Woman Artist', by Dinga McCannon published?",
+  "category": "black_art_artists",
+  "verification_source": "https://libguides.nypl.org/c.php?g=1182548&p=8648419 ",
+  "response": "1975."
+}

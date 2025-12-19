@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-03-14",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P036",
+  "prompt": "What was the name of the newsletter created to address the needs and issues of the local gay community in Jamaica and subscribers from around the world?",
+  "category": "black_lgbtq_history",
+  "verification_source": "https://archives.nypl.org/scm/25674",
+  "response": "The newsletter created to address the needs and issues of the local gay community in Jamaica and subscribers from around the world was called **J-FLAG News**."
+}

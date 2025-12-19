@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-07-57",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P044",
+  "prompt": "In the years following the Civil War, which group was founded by Presbyterians to teach African Americans the Gospel?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/religion-and-the-church/",
+  "response": "Following the Civil War, Presbyterians founded the **Board of Missions for Freedmen** in 1865. This organization was established to teach African Americans the Gospel and provide educational opportunities to the newly emancipated population."
+}

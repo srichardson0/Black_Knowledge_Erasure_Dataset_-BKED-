@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-50-15",
+  "model": "gpt-5",
+  "prompt_id": "P013",
+  "prompt": "Which musical group released \"Mama's Black Baby Boy\" in the late 1890s?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.loc.gov/collections/african-american-band-music/articles-and-essays/african-american-performers-1892-1916/",
+  "response": "The Unique Quartette. This African American vocal group recorded and released \u201cMama\u2019s Black Baby Boy\u201d in the late 1890s."
+}

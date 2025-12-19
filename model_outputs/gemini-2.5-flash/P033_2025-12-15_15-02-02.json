@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-02-02",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P033",
+  "prompt": "What is the name of the first publicly gay organization in Jamaica and one of the first gay rights organizations in the Caribbean?",
+  "category": "black_lgbtq_history",
+  "verification_source": "https://archives.nypl.org/scm/25674",
+  "response": "The first publicly gay organization in Jamaica and one of the first gay rights organizations in the Caribbean is the Jamaica Forum for Lesbians, All-Sexuals and Gays (J-FLAG)."
+}

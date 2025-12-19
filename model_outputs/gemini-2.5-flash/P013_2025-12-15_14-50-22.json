@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-50-22",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P013",
+  "prompt": "Which musical group released \"Mama's Black Baby Boy\" in the late 1890s?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.loc.gov/collections/african-american-band-music/articles-and-essays/african-american-performers-1892-1916/",
+  "response": "The song \"My Black Baby Boy\" (sometimes known by similar titles) was widely performed by individual vocalists, such as Arthur Collins, in the late 1890s, rather than being released by a specific musical group. Paul Dresser composed the piece, which was published in 1897."
+}

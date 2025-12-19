@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-52-21",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P020",
+  "prompt": "Who said the following quote?: \u201cThere was one of two things I had a right to: liberty or death. If I could not have one, I would take the other, for no man should take me alive. I should fight for liberty as long as my strength lasted.\u201d",
+  "category": "black_feminisim",
+  "verification_source": "https://libguides.nypl.org/blackfeminism",
+  "response": "This quote is attributed to Harriet Tubman, the enslaved woman who escaped to freedom and became a prominent abolitionist and conductor on the Underground Railroad. The quote reflects her unwavering commitment to freedom and her determination to resist capture at any cost."
+}

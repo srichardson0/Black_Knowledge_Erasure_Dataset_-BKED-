@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-47-51",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P007",
+  "prompt": "When was Fiber and mixed media artist Dindga McCannon born,  and where was she raised?",
+  "category": "black_art_artists",
+  "verification_source": "https://libguides.nypl.org/DindgaMcCannon ",
+  "response": "Dindga McCannon was born in 1947 and raised in Harlem, New York."
+}

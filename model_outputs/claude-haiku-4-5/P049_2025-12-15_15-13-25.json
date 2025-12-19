@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-13-25",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P049",
+  "prompt": "Who is the author of  'The Crime of Crimes, or the Convict System Unmasked.' (Washington, D.C., 1907)?",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/women-authors/",
+  "response": "# The Crime of Crimes Author\n\nThe author of \"The Crime of Crimes, or the Convict System Unmasked\" (1907) is **John Kahan Van Etten**, who wrote this expos\u00e9 criticizing the American convict system and its abuses."
+}

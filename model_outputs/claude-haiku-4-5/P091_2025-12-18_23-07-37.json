@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-18_23-07-37",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P091",
+  "prompt": "What is the title of the autobiography in which Jackie Robinson describes his trial as a vent for the \"bigotry\" of individuals who considered him \"uppity\"?",
+  "category": "black_texts_authors",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/jackie-robinson-and-double-v-campaign",
+  "response": "The autobiography is titled \"I Never Had It Made\" (1972), in which Jackie Robinson reflects on his experiences with racism and discrimination throughout his life and career."
+}

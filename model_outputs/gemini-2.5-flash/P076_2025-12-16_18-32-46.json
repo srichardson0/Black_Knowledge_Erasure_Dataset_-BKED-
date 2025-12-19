@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_18-32-46",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P076",
+  "prompt": "The Leesburg Stockade Girls were jailed for attempting to purchase tickets at the front entrance of which specific theater in Americus, Georgia?",
+  "category": "african_diaspora",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/hidden-herstory-leesburg-stockade-girls",
+  "response": "The Leesburg Stockade Girls were jailed for attempting to purchase tickets at the front entrance of the **Rylander Theatre** in Americus, Georgia. This act challenged the segregated seating policies of the theater."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_15-10-48",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P066",
+  "prompt": "What unique factor allowed a \"vibrant LGBTQ nightlife\" to exist in Harlem with less legal persecution than elsewhere in New York City during the 1920s?",
+  "category": "black_lgbtq_history",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/harlem-renaissance-black-queer-history",
+  "response": "Harlem's racial segregation and status as a predominantly Black community meant white authorities often overlooked or de-prioritized enforcing anti-LGBTQ+ laws there compared to white neighborhoods. This relative neglect allowed a comparatively freer, albeit still underground, space for queer nightlife to thrive alongside the general illegality of Prohibition-era speakeasies."
+}

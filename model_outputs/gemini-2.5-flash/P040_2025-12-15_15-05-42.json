@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-05-42",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P040",
+  "prompt": "Why was The Freedmen's Bureau created?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/abolition-and-slavery/ ",
+  "response": "The Freedmen's Bureau was created after the Civil War to provide essential aid and assistance to newly freed African Americans in their transition from slavery to freedom. It helped with immediate needs like food, housing, medical care, and education, while also working to protect their civil rights and secure fair labor contracts."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_17-53-39",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P077",
+  "prompt": "Which specific suffragist was among the first African American women to earn a college degree, having attended Oberlin College?",
+  "category": "black_feminisim",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/five-you-should-know-african-american-suffragists",
+  "response": "Mary Church Terrell, a prominent suffragist and civil rights activist, was among the first African American women to earn a college degree, graduating from Oberlin College in 1884. She later earned a master's degree from Oberlin as well."
+}

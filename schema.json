@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Black Knowledge Erasure Dataset (BKED) Record Schema",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer",
+      "description": "Unique identifier for each record."
+    },
+    "prompt_id": {
+      "type": "string",
+      "description": "Identifier for the prompt (e.g., 'P001')."
+    },
+    "prompt": {
+      "type": "string",
+      "description": "Text of the original prompt that produced the model output."
+    },
+    "model": {
+      "type": "string",
+      "enum": ["gpt-5", "gemini-2.5-flash", "claude-haiku-4-5"],
+      "description": "Model that produced the output."
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}_\\d{2}-\\d{2}-\\d{2}$",
+      "description": "Timestamp saved in JSON filenames and CSVs using format YYYY-MM-DD_HH-MM-SS."
+    },
+    "model_response": {
+      "type": "string",
+      "description": "Full model output text extracted from the JSON response."
+    },
+    "output_excerpt": {
+      "type": "string",
+      "description": "Optional short excerpt (used in processed exports).",
+      "maxLength": 300
+    },
+    "error_type": {
+      "type": "string",
+      "enum": [
+        "misattribution",
+        "erasure_by_omission",
+        "adjacent_error",
+        "invented_figure",
+        "temporal_error",
+        "geographical_error",
+        "factual_error"
+      ],
+      "description": "Controlled vocabulary for annotation of the type of error/hallucination."
+    },
+    "error_description": {
+      "type": "string",
+      "description": "Free-text explanation describing the identified error."
+    },
+    "verification_source": {
+      "type": "string",
+      "description": "URL or citation used to verify or refute the model output."
+    },
+    "category": {
+      "type": "string",
+      "description": "Topical category for the prompt/record (free-text)."
+    }
+  },
+  "required": [
+    "id",
+    "prompt_id",
+    "prompt",
+    "model",
+    "date",
+    "model_response",
+    "error_type",
+    "category"
+  ],
+  "additionalProperties": false
+}

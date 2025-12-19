@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_15-06-25",
+  "model": "gpt-5",
+  "prompt_id": "P061",
+  "prompt": "Who is the author of the 1985 poem, \"The Present Crisis\"?",
+  "category": "black_texts_authors",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/the-crisis",
+  "response": "James Russell Lowell. It was originally published in 1844, not 1985."
+}

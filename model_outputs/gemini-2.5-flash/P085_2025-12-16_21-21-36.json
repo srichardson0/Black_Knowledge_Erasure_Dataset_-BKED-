@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_21-21-36",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P085",
+  "prompt": "The Buffalo Soldiers played a key role in defusing which \"little-known\" 1892 conflict in Wyoming? ",
+  "category": "african_diaspora",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/proud-legacy-buffalo-soldiers",
+  "response": "The Buffalo Soldiers played a key role in defusing the Johnson County War in 1892. They were dispatched by President Benjamin Harrison to restore order and protect all parties after the conflict between large cattle barons and homesteaders escalated."
+}

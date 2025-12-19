@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-15-17",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P054",
+  "prompt": "Who is the author of 'The American Churches, the Bulwarks of American Slavery' (Newburyport, Mass.,1842)?",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/religion-and-the-church/",
+  "response": "The author of 'The American Churches, the Bulwarks of American Slavery' was Theodore Dwight Weld. He was a prominent American abolitionist and a leading figure in the anti-slavery movement."
+}

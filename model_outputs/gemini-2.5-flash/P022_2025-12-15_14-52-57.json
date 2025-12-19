@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-52-57",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P022",
+  "prompt": "Where is this quote from?: \"Above all else, Our politics initially sprang from the shared belief that Black women are inherently valuable, that our liberation is a necessity not as an adjunct to somebody else's but because of our need as human persons for autonomy.\"",
+  "category": "black_feminisim",
+  "verification_source": "https://libguides.nypl.org/blackfeminism",
+  "response": "This quote is from the **Combahee River Collective Statement**, a foundational document of Black feminist thought written by the Combahee River Collective in 1977. It outlines the group's political analysis and commitment to fighting racism, sexism, heterosexism, and class oppression."
+}

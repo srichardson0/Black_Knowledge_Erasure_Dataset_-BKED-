@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-20-17",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P059",
+  "prompt": "What is the major theme of Dr. Blackwell's book 'The Black Community: Diversity and Unity'?",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/higher-education-and-the-black-community-the-james-e-blackwell-papers",
+  "response": "I don't have reliable information about a book by that exact title and author in my training data. To give you an accurate answer about Dr. Blackwell's major themes, I'd recommend checking the book directly, looking at its publisher's description, or searching academic databases for reviews and summaries."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_17-53-35",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P077",
+  "prompt": "Which specific suffragist was among the first African American women to earn a college degree, having attended Oberlin College?",
+  "category": "black_feminisim",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/five-you-should-know-african-american-suffragists",
+  "response": "Frances Ellen Watkins Harper was among the first African American women to earn a college degree, having attended Oberlin College in Ohio, where she became an accomplished writer, poet, and prominent suffragist and abolitionist."
+}

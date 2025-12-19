@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_15-11-12",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P068",
+  "prompt": "The racially-charged fight that led to the Scottsboro Boys case occurred on the Southern Railroad freight train. What was the precise date of this incident?",
+  "category": "african_diaspora",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/scottsboro-boys",
+  "response": "The racially-charged fight that led to the Scottsboro Boys case occurred on March 25, 1931, on a Southern Railroad freight train."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_20-09-27",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P028",
+  "prompt": "For what time period was the organization Gay Men of African Descent (GMAD) active?",
+  "category": "black_lgbtq_history",
+  "verification_source": "https://archives.nypl.org/scm/21213#overview",
+  "response": "The organization Gay Men of African Descent (GMAD) was active from its founding in 1986 until it disbanded in 1996."
+}

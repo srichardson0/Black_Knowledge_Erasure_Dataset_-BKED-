@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_14-49-22",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P010",
+  "prompt": "Which music comapany published the pioneering black musicals Abyssinia and Bandana Land?",
+  "category": "black_art_artists",
+  "verification_source": "https://www.loc.gov/collections/african-american-band-music/articles-and-essays/african-american-band-stocks/",
+  "response": "The pioneering black musicals Abyssinia and Bandana Land did not have a single \"music company\" that published the entire show. However, the sheet music for many of their popular songs was primarily published by **Rogers Bros. Music Publishing Company**."
+}

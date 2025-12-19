@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_21-21-33",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P085",
+  "prompt": "The Buffalo Soldiers played a key role in defusing which \"little-known\" 1892 conflict in Wyoming? ",
+  "category": "african_diaspora",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/proud-legacy-buffalo-soldiers",
+  "response": "The Buffalo Soldiers played a key role in the Johnson County War of 1892 in Wyoming, a conflict between wealthy cattle ranchers and homesteaders/small ranchers that threatened to escalate into open warfare."
+}

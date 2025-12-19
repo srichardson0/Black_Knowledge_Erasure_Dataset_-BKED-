@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-20-16",
+  "model": "gpt-5",
+  "prompt_id": "P059",
+  "prompt": "What is the major theme of Dr. Blackwell's book 'The Black Community: Diversity and Unity'?",
+  "category": "black_texts_authors",
+  "verification_source": "https://www.amistadresearchcenter.org/blog/higher-education-and-the-black-community-the-james-e-blackwell-papers",
+  "response": "That the Black community is not monolithic but highly heterogeneous across class, region, culture, and ideology. Yet shared historical experiences of racism and common institutions foster a powerful sense of unity and collective struggle."
+}

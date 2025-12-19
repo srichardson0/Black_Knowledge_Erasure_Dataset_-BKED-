@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_21-19-59",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P081",
+  "prompt": "Jazz was originally seen as socially unacceptable and often referred to by what specific derogatory phrase?",
+  "category": "african_diaspora",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/women-behind-music",
+  "response": "Jazz was originally referred to as \"the Devil's music\" due to its association with African American culture, improvisation, and the nightlife of speakeasies and brothels, which made it socially unacceptable to many in early 20th-century America."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-15_15-07-54",
+  "model": "claude-haiku-4-5",
+  "prompt_id": "P044",
+  "prompt": "In the years following the Civil War, which group was founded by Presbyterians to teach African Americans the Gospel?",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://www.loc.gov/collections/african-american-perspectives-rare-books/articles-and-essays/religion-and-the-church/",
+  "response": "The **Freedmen's Bureau** and various Presbyterian missionary organizations worked to educate African Americans after the Civil War, though the most notable Presbyterian effort was the establishment of schools and churches through Presbyterian boards of missions dedicated to teaching the Gospel to formerly enslaved people."
+}

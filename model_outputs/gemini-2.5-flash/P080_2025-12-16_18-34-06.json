@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-16_18-34-06",
+  "model": "gemini-2.5-flash",
+  "prompt_id": "P080",
+  "prompt": "On May 2, 1963, the civil rights march for the Children's Crusade began after roughly a thousand students gathered enthusiastically at which specific Birmingham church? ",
+  "category": "historical_institutions_organizations",
+  "verification_source": "https://nmaahc.si.edu/explore/stories/hidden-herstory-leesburg-stockade-girls",
+  "response": "The civil rights march for the Children's Crusade began after roughly a thousand students gathered enthusiastically at the **Sixteenth Street Baptist Church** in Birmingham. This historic church served as a central organizing point for many civil rights demonstrations."
+}
