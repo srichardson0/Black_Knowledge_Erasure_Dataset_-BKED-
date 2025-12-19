@@ -27,8 +27,7 @@ Annotation is a human-led, structured process used to identify, classify, and do
 5. Export: Curated and annotated hallucination records are stored in `data/model_hallucinations.csv` with the schema defined in `schema.json`.
 
 **Quality assurance and validation**
-- Schema validation: I validate exported CSVs against `schema.json` to ensure required fields and data types are present. A lightweight validation script was used to check `data/model_hallucinations.csv` (result: 1 record had an empty `error_type` and was flagged for review).
-- Inter-annotator checks: When possible, multiple annotators review the same candidate records; disagreements are resolved via discussion and a consensus annotation is recorded.
+- Schema validation: I validate exported CSVs against `schema.json` to ensure required fields and data types are present. A lightweight validation script was used to check `data/model_hallucinations.csv` 
 - Controlled vocabularies: Use of the controlled `error_type` vocabulary and `category` normalization reduces categorical drift and aids downstream analysis.
 
 **Software, reproducibility, and environment**
