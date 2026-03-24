@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI Humanities Hallucination Database</title>
+    <link href="./style.css" rel="stylesheet">
+</head>
+<body>
+    <noscript><div id="noscript">Please turn on JavaScript to view the database.</div></noscript>
+    
+    <div class="container-fluid" id="main-content">
+        <div id="header">
+            <div id="header-main-info">
+                <div id="title-l1">The AI "Hallucinations" Project<br></div>
+                <div id="title-l2">
+                    <button class="nav-btn" onclick="window.location.href='index.html'">the data</button>
+                    <button class="nav-btn" onclick="window.location.href='about.html'">about</button>
+                    <button class="nav-btn" onclick="window.location.href='methods.html'">methods</button>
+                    <button class="nav-btn" onclick="window.location.href='social.html'">social</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="row" id="full-table">
+            <div class="col-md-12">
+                <table id="myTable" class="table table-borderless table-hover" cellpadding="0px">
+                    <thead>
+                        <tr>
+                            <th width="45%" class="header"><nobr>hallucination<div class="arrow"></div></nobr></th>
+                            <th width="20%" class="header"><nobr>type<div class="arrow"></div></nobr></th>
+                            <th width="30%" class="header"><nobr>model<div class="arrow"></div></nobr></th>
+                            <th width="5%" class="header"></th>
+                        </tr>
+                    </thead>
+                    <tbody class="main" id="data-container">
+                        </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="footer">design emulated for AI Humanities Project</div>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>

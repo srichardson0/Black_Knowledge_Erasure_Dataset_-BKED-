@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Methods - AI Humanities Hallucination Database</title>
+    <link href="./style.css" rel="stylesheet">
+</head>
+<body>
+    <noscript><div id="noscript">Please turn on JavaScript to view the database.</div></noscript>
+    
+    <div class="container-fluid" id="main-content">
+        <div id="header">
+            <div id="header-main-info">
+                <div id="title-l1">The AI "Hallucinations" Project<br></div>
+                <div id="title-l2">
+                    <button class="nav-btn" onclick="window.location.href='index.html'">the data</button>
+                    <button class="nav-btn" onclick="window.location.href='about.html'">about</button>
+                    <button class="nav-btn" onclick="window.location.href='methods.html'">methods</button>
+                    <button class="nav-btn" onclick="window.location.href='social.html'">social</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="row" id="methods-content">
+            <div class="col-md-12">
+                <div class="callout-note">
+                    <strong>Note:</strong> This page is currently under development and will be updated with additional information and resources.
+                </div>
+
+                <div id="methods-section">
+                    <h2>Methodology</h2>
+
+                    <h3>Data sources and sampling</h3>
+                    <ul>
+                        <li><strong>Prompts:</strong> The study uses a curated set of 94 prompts listed in <code>data/prompt_master.csv</code>. Prompts were designed to elicit factual, historical, and cultural responses relevant to Black studies (categories include <code>black_art_artists</code>, <code>african_diaspora</code>, <code>black_texts_authors</code>, etc.).</li>
+                        <li><strong>Models:</strong> Each prompt was submitted to multiple large language models (LLMs) — <code>gpt-5</code>, <code>gemini-2.5-flash</code>, and <code>claude-haiku-4-5</code> — to sample cross-model behavior.</li>
+                        <li><strong>Sampling window:</strong> Collection occurred between 2025-12-15 and 2025-12-18; responses are timestamped and saved in <code>model_outputs/&lt;model&gt;/</code>.</li>
+                    </ul>
+
+                    <h3>Data collection procedure</h3>
+                    <ol>
+                        <li><strong>Prompt preparation:</strong> Prompts were drafted and reviewed for clarity and topical coverage; each prompt includes a unique <code>prompt_id</code> and a topical <code>category</code> recorded in <code>data/prompt_master.csv</code>.</li>
+                        <li><strong>Programmatic querying:</strong> The <code>src/collect_records.py</code> script drove model queries. For each model and prompt, the script sends the prompt (with instruction to respond in 1 - 2 sentences) and receives a textual response. Each response is saved as a JSON record in <code>model_outputs/&lt;model&gt;/</code> containing: <code>timestamp</code>, <code>model</code>, <code>prompt_id</code>, <code>prompt</code>, <code>category</code>, <code>verification_source</code>, and <code>response</code>.</li>
+                        <li><strong>Archival:</strong> JSON files are named with <code>prompt_id</code> and timestamp (<code>YYYY-MM-DD_HH-MM-SS</code>) to allow traceability and reproducibility of model output at the time of collection.</li>
+                    </ol>
+
+                    <h3>Preprocessing and aggregation</h3>
+                    <ul>
+                        <li><strong>Aggregation:</strong> The <code>src/append_records.py</code> script ingests all JSON files under <code>model_outputs/</code> and appends new entries to <code>data/model_responses_raw.csv</code>. This CSV contains one row per model+prompt pair and stores the full <code>model_response</code> text along with metadata.</li>
+                        <li><strong>Normalization:</strong> The script normalizes whitespace in model responses, ensures consistent timestamp formatting, and avoids duplicate model+prompt entries by tracking existing <code>(model, prompt_id)</code> keys.</li>
+                        <li><strong>Note:</strong> <code>append_records.py</code> intentionally updates only <code>data/model_responses_raw.csv</code>. Extraction of hallucinations and creation/updating of <code>data/model_hallucinations.csv</code> is performed as a separate, curator-driven step described below.</li>
+                    </ul>
+
+                    <h3>Annotation protocol (identifying hallucinations)</h3>
+                    <p>Annotation is a human-led, structured process used to identify, classify, and document hallucinations in model outputs. Key steps:</p>
+                    <ol>
+                        <li><strong>Hallucination extraction:</strong> <code>data/model_responses_raw.csv</code> is reviewed and outputs that appear to contain fabricated, misattributed, or otherwise incorrect claims are identified. These rows are copied into a working annotation table.</li>
+                        <li><strong>Classification:</strong> An <code>error_type</code> is assigned from the controlled vocabulary:
+                            <ul>
+                                <li><code>misattribution</code></li>
+                                <li><code>erasure_by_omission</code></li>
+                                <li><code>adjacent_error</code></li>
+                                <li><code>invented_figure</code></li>
+                                <li><code>temporal_error</code></li>
+                                <li><code>geographical_error</code></li>
+                                <li><code>factual_error</code></li>
+                            </ul>
+                        </li>
+                        <li><strong>Description:</strong> For each annotated record, an <code>error_description</code> is written that explains why the output is erroneous.</li>
+                        <li><strong>Verification:</strong> <code>verification_source</code> (URL or citation) is provided that was used to confirm or refute the claim.</li>
+                        <li><strong>Export:</strong> Curated and annotated hallucination records are stored in <code>data/model_hallucinations.csv</code> with the schema defined in <code>schema.json</code>.</li>
+                    </ol>
+
+                    <h3>Quality assurance and validation</h3>
+                    <ul>
+                        <li><strong>Schema validation:</strong> Exported CSVs are validated against <code>schema.json</code> to ensure required fields and data types are present.</li>
+                        <li><strong>Controlled vocabularies:</strong> Use of the controlled <code>error_type</code> vocabulary and <code>category</code> normalization reduces categorical drift and aids downstream analysis.</li>
+                    </ul>
+
+                    <h3>Software, reproducibility, and environment</h3>
+                    <ul>
+                        <li><strong>Code:</strong> Collection and aggregation scripts are in the <code>src/</code> folder. <code>collect_records.py</code> handles API queries and saving JSON outputs; <code>append_records.py</code> aggregates into <code>data/model_responses_raw.csv</code>.</li>
+                        <li><strong>Environment:</strong> Recommended Python version is 3.10+; dependencies are listed in <code>requirements.txt</code>.</li>
+                        <li><strong>Reproducibility:</strong> JSON archives in <code>model_outputs/</code> plus <code>prompt_master.csv</code> provide the provenance necessary to reproduce model calls.</li>
+                    </ul>
+
+                    <h3>Limitations</h3>
+                    <ul>
+                        <li><strong>API variation:</strong> Model behavior may change over time; archived JSONs capture responses at collection time but cannot account for downstream model updates.</li>
+                        <li><strong>Annotation subjectivity:</strong> Some classification decisions (e.g., <code>adjacent_error</code> vs. <code>misattribution</code>) can be subjective.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div id="footer">design emulated for AI Humanities Project</div>
+    </div>
+</body>
+</html>
