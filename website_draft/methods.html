@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script>
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+    </script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Methods - AI Humanities Hallucination Database</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/iosevka@5.0.8/index.css">
+    
     <link href="./style.css" rel="stylesheet">
 </head>
 <body>
@@ -15,10 +25,18 @@
             <div id="header-main-info">
                 <div id="title-l1">The AI "Hallucinations" Project<br></div>
                 <div id="title-l2">
-                    <button class="nav-btn" onclick="window.location.href='index.html'">the data</button>
+                    <button class="nav-btn" onclick="window.location.href='index.html'">home</button>
                     <button class="nav-btn" onclick="window.location.href='about.html'">about</button>
                     <button class="nav-btn" onclick="window.location.href='methods.html'">methods</button>
                     <button class="nav-btn" onclick="window.location.href='social.html'">social</button>
+                    <button class="nav-btn" onclick="window.location.href='data.html'">the data</button>
+                    
+                    <div class="theme-switch-wrapper">
+                        <label class="theme-switch">
+                            <input type="checkbox" id="theme-toggle-checkbox">
+                            <span class="slider"></span>
+                        </label>
+                    </div>
                 </div>
             </div>
         </div>
@@ -95,7 +113,9 @@
             </div>
         </div>
 
-        <div id="footer">design by Clemens Jahn © Elvia Wilk 2016-2020</div>
-    </div>
-</body>
+        <div id="footer">footer</div>
+            </div>
+
+            <script src="./script.js"></script> 
+    </body>
 </html>

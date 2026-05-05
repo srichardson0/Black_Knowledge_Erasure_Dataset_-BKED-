@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+    </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Data - AI "Hallucinations" Project</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/iosevka@5.0.8/index.css">
+    
+    <link href="./style.css" rel="stylesheet">
+</head>
+<body>
+    <noscript><div id="noscript">Please turn on JavaScript to view the database.</div></noscript>
+    
+    <div class="container-fluid" id="main-content">
+        <div id="header">
+            <div id="header-main-info">
+                <div id="title-l1">The AI "Hallucinations" Project<br></div>
+                <div id="title-l2">
+                    <button class="nav-btn" onclick="window.location.href='index.html'">home</button>
+                    <button class="nav-btn" onclick="window.location.href='about.html'">about</button>
+                    <button class="nav-btn" onclick="window.location.href='methods.html'">methods</button>
+                    <button class="nav-btn" onclick="window.location.href='social.html'">social</button>
+                    <button class="nav-btn" onclick="window.location.href='data.html'">the data</button>
+                    
+                    
+                    <div class="theme-switch-wrapper">
+                        <label class="theme-switch">
+                            <input type="checkbox" id="theme-toggle-checkbox">
+                            <span class="slider"></span>
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row" id="data-content">
+            <div class="col-md-12">
+                <div id="data-intro">
+                    <h2>Dataset</h2>
+                    <p>Download the complete model hallucinations dataset and explore detailed documentation of each field.</p>
+                    
+                    <div id="download-section">
+                        <a href="../data/model_hallucinations.csv" download="model_hallucinations.csv" class="download-btn">
+                            Download Dataset (CSV)
+                        </a>
+                    </div>
+                </div>
+
+                <div id="data-dictionary">
+                    <h2>Data Dictionary</h2>
+                    <div class="dictionary-container">
+                        <div class="dictionary-entry">
+                            <h3>id</h3>
+                            <p><strong>Type:</strong> integer</p>
+                            <p><strong>Description:</strong> Unique identifier for each record.</p>
+                        </div>
+
+                        <div class="dictionary-entry">
+                            <h3>prompt_id</h3>
+                            <p><strong>Type:</strong> string</p>
+                            <p><strong>Description:</strong> Identifier for the prompt (example: P001).</p>
+                        </div>
+
+                        <div class="dictionary-entry">
+                            <h3>prompt</h3>
+                            <p><strong>Type:</strong> string</p>
+                            <p><strong>Description:</strong> Full text of the prompt that produced the model output.</p>
+                        </div>
+
+                        <div class="dictionary-entry">
+                            <h3>model</h3>
+                            <p><strong>Type:</strong> string</p>
+                            <p><strong>Description:</strong> Model that produced the output.<br>
+                            <strong>Values:</strong> gpt-5, gemini-2.5-flash, claude-haiku-4-5</p>
+                        </div>
+
+                        <div class="dictionary-entry">
+                            <h3>date</h3>
+                            <p><strong>Type:</strong> string</p>
+                            <p><strong>Description:</strong> Timestamp when the response was generated or saved.<br>
+                            <strong>Format:</strong> YYYY-MM-DD_HH-MM-SS (example: 2025-12-15_14-45-31)</p>
+                        </div>
+
+                        <div class="dictionary-entry">
+                            <h3>model_response</h3>
+                            <p><strong>Type:</strong> string</p>
+                            <p><strong>Description:</strong> Full model output text.</p>
+                        </div>
+
+                        <div class="dictionary-entry">
+                            <h3>error_type</h3>
+                            <p><strong>Type:</strong> string</p>
+                            <p><strong>Description:</strong> Controlled vocabulary describing the type of error or hallucination.<br>
+                            <strong>Values:</strong></p>
+                            <ul>
+                                <li><strong>misattribution</strong> — AI assigns a work/statement/action to the wrong person or organization.</li>
+                                <li><strong>erasure_by_omission</strong> — AI omits real, relevant scholars/artists/sources that should be mentioned.</li>
+                                <li><strong>adjacent_error</strong> — AI gives information close to correct but not what was asked (nearby location, related institution, associated work).</li>
+                                <li><strong>invented_figure</strong> — AI creates a person who never existed.</li>
+                                <li><strong>temporal_error</strong> — AI gives wrong dates or places events in the wrong period.</li>
+                                <li><strong>geographical_error</strong> — AI gives the wrong location (city/state/country/institution).</li>
+                                <li><strong>factual_error</strong> — AI provides incorrect factual details about real people, works, or events.</li>
+                            </ul>
+                        </div>
+
+                        <div class="dictionary-entry">
+                            <h3>error_description</h3>
+                            <p><strong>Type:</strong> string</p>
+                            <p><strong>Description:</strong> Free-text description elaborating on the error identified during annotation.</p>
+                        </div>
+
+                        <div class="dictionary-entry">
+                            <h3>verification_source</h3>
+                            <p><strong>Type:</strong> string</p>
+                            <p><strong>Description:</strong> URL or citation used to verify/refute the model output.</p>
+                        </div>
+
+                        <div class="dictionary-entry">
+                            <h3>category</h3>
+                            <p><strong>Type:</strong> string</p>
+                            <p><strong>Description:</strong> Topical category for the prompt/record.<br>
+                            <strong>Values:</strong></p>
+                            <ul>
+                                <li>black_art_artists</li>
+                                <li>black_feminisim</li>
+                                <li>black_lgbtq_history</li>
+                                <li>historical_institutions_organizations</li>
+                                <li>black_texts_authors</li>
+                                <li>african_diaspora</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="footer">footer</div>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>
