@@ -8,7 +8,9 @@ Course: Introduction to Digital Humanities, Fall 2025
 
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (MIT License)
 
-  
+Citation:
+Richardson, S. (2025). Black Knowledge Erasure Dataset (BKED) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20149117
+
 ---
 
 ### Purpose
